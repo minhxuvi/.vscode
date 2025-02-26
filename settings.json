@@ -51,5 +51,6 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "makefile.configureOnOpen": false,
-  "workbench.colorTheme": "Default Dark+"
+  "workbench.colorTheme": "Default Dark+",
+  "window.autoDetectColorScheme": true
 }
